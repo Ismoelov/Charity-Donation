@@ -1,0 +1,11 @@
+D:\.Net vazifalar\Charity Donation\CharityDonation.Domain\bin\Debug\net8.0\CharityDonation.Domain.deps.json
+D:\.Net vazifalar\Charity Donation\CharityDonation.Domain\bin\Debug\net8.0\CharityDonation.Domain.dll
+D:\.Net vazifalar\Charity Donation\CharityDonation.Domain\bin\Debug\net8.0\CharityDonation.Domain.pdb
+D:\.Net vazifalar\Charity Donation\CharityDonation.Domain\obj\Debug\net8.0\CharityDonation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net vazifalar\Charity Donation\CharityDonation.Domain\obj\Debug\net8.0\CharityDonation.Domain.AssemblyInfoInputs.cache
+D:\.Net vazifalar\Charity Donation\CharityDonation.Domain\obj\Debug\net8.0\CharityDonation.Domain.AssemblyInfo.cs
+D:\.Net vazifalar\Charity Donation\CharityDonation.Domain\obj\Debug\net8.0\CharityDonation.Domain.csproj.CoreCompileInputs.cache
+D:\.Net vazifalar\Charity Donation\CharityDonation.Domain\obj\Debug\net8.0\CharityDonation.Domain.dll
+D:\.Net vazifalar\Charity Donation\CharityDonation.Domain\obj\Debug\net8.0\refint\CharityDonation.Domain.dll
+D:\.Net vazifalar\Charity Donation\CharityDonation.Domain\obj\Debug\net8.0\CharityDonation.Domain.pdb
+D:\.Net vazifalar\Charity Donation\CharityDonation.Domain\obj\Debug\net8.0\ref\CharityDonation.Domain.dll

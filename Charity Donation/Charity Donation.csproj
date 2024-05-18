@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Charity_Donation</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CharityDonation.DataAccess\CharityDonation.DataAccess.csproj" />
+    <ProjectReference Include="..\CharityDonation.Domain\CharityDonation.Domain.csproj" />
+    <ProjectReference Include="..\CharityDonation.Service\CharityDonation.Service.csproj" />
+  </ItemGroup>
+
+</Project>

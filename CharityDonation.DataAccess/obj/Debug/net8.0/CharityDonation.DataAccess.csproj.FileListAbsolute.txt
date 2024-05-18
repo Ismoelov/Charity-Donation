@@ -1,0 +1,17 @@
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\bin\Debug\net8.0\CharityDonation.DataAccess.deps.json
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\bin\Debug\net8.0\CharityDonation.DataAccess.runtimeconfig.json
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\bin\Debug\net8.0\CharityDonation.DataAccess.dll
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\bin\Debug\net8.0\CharityDonation.DataAccess.pdb
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\bin\Debug\net8.0\CharityDonation.Domain.dll
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\bin\Debug\net8.0\CharityDonation.Domain.pdb
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\obj\Debug\net8.0\CharityDonation.DataAccess.csproj.AssemblyReference.cache
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\obj\Debug\net8.0\CharityDonation.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\obj\Debug\net8.0\CharityDonation.DataAccess.AssemblyInfoInputs.cache
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\obj\Debug\net8.0\CharityDonation.DataAccess.AssemblyInfo.cs
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\obj\Debug\net8.0\CharityDonation.DataAccess.csproj.CoreCompileInputs.cache
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\obj\Debug\net8.0\CharityDonation.DataAccess.csproj.CopyComplete
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\obj\Debug\net8.0\CharityDonation.DataAccess.dll
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\obj\Debug\net8.0\refint\CharityDonation.DataAccess.dll
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\obj\Debug\net8.0\CharityDonation.DataAccess.pdb
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\obj\Debug\net8.0\CharityDonation.DataAccess.genruntimeconfig.cache
+D:\.Net vazifalar\Charity Donation\CharityDonation.DataAccess\obj\Debug\net8.0\ref\CharityDonation.DataAccess.dll

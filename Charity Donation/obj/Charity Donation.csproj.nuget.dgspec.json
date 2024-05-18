@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\.Net vazifalar\\Charity Donation\\Charity Donation\\Charity Donation.csproj": {}
+  },
+  "projects": {
+    "D:\\.Net vazifalar\\Charity Donation\\Charity Donation\\Charity Donation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.Net vazifalar\\Charity Donation\\Charity Donation\\Charity Donation.csproj",
+        "projectName": "Charity Donation",
+        "projectPath": "D:\\.Net vazifalar\\Charity Donation\\Charity Donation\\Charity Donation.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net vazifalar\\Charity Donation\\Charity Donation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.DataAccess\\CharityDonation.DataAccess.csproj": {
+                "projectPath": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.DataAccess\\CharityDonation.DataAccess.csproj"
+              },
+              "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Domain\\CharityDonation.Domain.csproj": {
+                "projectPath": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Domain\\CharityDonation.Domain.csproj"
+              },
+              "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Service\\CharityDonation.Service.csproj": {
+                "projectPath": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Service\\CharityDonation.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.DataAccess\\CharityDonation.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.DataAccess\\CharityDonation.DataAccess.csproj",
+        "projectName": "CharityDonation.DataAccess",
+        "projectPath": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.DataAccess\\CharityDonation.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Domain\\CharityDonation.Domain.csproj": {
+                "projectPath": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Domain\\CharityDonation.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Domain\\CharityDonation.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Domain\\CharityDonation.Domain.csproj",
+        "projectName": "CharityDonation.Domain",
+        "projectPath": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Domain\\CharityDonation.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Service\\CharityDonation.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Service\\CharityDonation.Service.csproj",
+        "projectName": "CharityDonation.Service",
+        "projectPath": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Service\\CharityDonation.Service.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.DataAccess\\CharityDonation.DataAccess.csproj": {
+                "projectPath": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.DataAccess\\CharityDonation.DataAccess.csproj"
+              },
+              "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Domain\\CharityDonation.Domain.csproj": {
+                "projectPath": "D:\\.Net vazifalar\\Charity Donation\\CharityDonation.Domain\\CharityDonation.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

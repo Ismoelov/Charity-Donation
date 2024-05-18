@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CharityDonation.Domain/1.0.0": {
+        "runtime": {
+          "CharityDonation.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CharityDonation.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
